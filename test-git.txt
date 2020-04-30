@@ -1,0 +1,13 @@
+echo "# hello-world" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jbaisani/hello-world.git
+git push -u origin master
+
+docker 
+https://hub.docker.com/?ref=login
+
+
+for automate github related to automation tools
+https://probot.github.io/apps/wip/
